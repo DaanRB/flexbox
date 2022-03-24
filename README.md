@@ -1,1 +1,1 @@
-# flexbox
+# Trabalho sobre utilizaçao de flexbox em uma landing page desenvolvido por Daniel Rebonatto, Murilo Casagrande e Mateus Magro. 
